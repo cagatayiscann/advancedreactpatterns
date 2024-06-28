@@ -16,3 +16,7 @@ Recipe:
 4) Add child components as properties to parent compoent (optional)
 
 See in code: https://github.com/cagatayiscann/advancedreactpatterns/blob/main/src/CompoundComponent/Counter.js
+
+To add in future:
+1) Real life use case for compound component in modal window
+2) explanation to render props
